@@ -1,0 +1,21 @@
+[2024-03-29 16:39:39] [info] Start Program:
+Path:"C:\Users\tapuc\source\repos\lab_sergiu\x64\Debug\lab_sergiu.exe"
+Arguments:
+Working directory: "C:\Users\tapuc\source\repos\lab_sergiu\lab_sergiu\"
+Modules: Selected: C:\Users\tapuc\source\repos\lab_sergiu\x64\Debug\lab_sergiu.exe Excluded: 
+Sources: Selected: C:\Users\tapuc\source\repos\lab_sergiu\lab_sergiu Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\tapuc\AppData\Local\Temp\enchokx1.3tg 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2024-03-29 16:39:39] [info] Module: C:\Users\tapuc\source\repos\lab_sergiu\x64\Debug\lab_sergiu.exe is selected because it matches selected pattern: C:\Users\tapuc\source\repos\lab_sergiu\x64\Debug\lab_sergiu.exe
+[2024-03-29 16:39:39] [info] ----------------------------------------------------
+[2024-03-29 16:39:39] [info] Coverage binary generated in file: C:\Users\tapuc\AppData\Local\Temp\enchokx1.3tg
+[2024-03-29 16:39:39] [info] ----------------------------------------------------
